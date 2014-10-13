@@ -10,6 +10,10 @@
   * [[pgg:obs|Open Bible Stories (pgg)]]
 
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pgg|d43-pgg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pgg/archive/master.zip|d43-pgg.zip]]
+
 **Recent Changes**
 {{changes>ns = pgg}}
 
