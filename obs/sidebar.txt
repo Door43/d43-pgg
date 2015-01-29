@@ -1,11 +1,33 @@
 
 ----
 ~~NOCACHE~~
-**[[pgg:obs|Open Bible Stories]]**
+**Door43**
 
-{{page>pgg:obs:stories}}
+  * [[pgg:home|Door43 (pgg)]]
 
+**Resources**
+
+  * [[pgg:obs|Open Bible Stories (pgg)]]
+
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pgg|d43-pgg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pgg/archive/master.zip|d43-pgg.zip]]
+
+**Recent Changes**
+{{changes>ns = pgg}}
 
 **Latest Status**
 {{page>en:uwadmin:pgg:obs:status}}
 
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pgg|Ethnologue data]]
+
+**Resources**
+
+  * [[pgg:obs|Open Bible Stories (pgg)]]
+
+**Latest OBS Status**
+{{page>en:uwadmin:pgg:obs:status}}
